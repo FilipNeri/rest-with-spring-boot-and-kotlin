@@ -1,9 +1,9 @@
-package br.com.erudio.controller;
+package br.com.filipeneri.controller;
 
-import br.com.erudio.converters.NumberConverter.convertToDouble
-import br.com.erudio.converters.NumberConverter.isNumeric
-import br.com.erudio.exceptions.UnsupportedMathOperationException
-import br.com.erudio.math.SimpleMath
+import br.com.filipeneri.converters.NumberConverter.convertToDouble
+import br.com.filipeneri.converters.NumberConverter.isNumeric
+import br.com.filipeneri.exceptions.UnsupportedMathOperationException
+import br.com.filipeneri.math.SimpleMath
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController

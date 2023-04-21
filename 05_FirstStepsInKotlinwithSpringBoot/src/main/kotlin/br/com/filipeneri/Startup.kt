@@ -1,4 +1,4 @@
-package br.com.erudio
+package br.com.filipeneri
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

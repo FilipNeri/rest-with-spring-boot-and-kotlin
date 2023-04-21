@@ -1,4 +1,4 @@
-package br.com.erudio.converters
+package br.com.filipeneri.converters
 
 object NumberConverter {
     fun convertToDouble(strNumber: String?): Double{

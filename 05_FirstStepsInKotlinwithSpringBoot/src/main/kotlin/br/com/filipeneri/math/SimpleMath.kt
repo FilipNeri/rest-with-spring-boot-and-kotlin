@@ -1,7 +1,7 @@
-package br.com.erudio.math
+package br.com.filipeneri.math
 
-import br.com.erudio.converters.NumberConverter
-import br.com.erudio.exceptions.UnsupportedMathOperationException
+import br.com.filipeneri.converters.NumberConverter
+import br.com.filipeneri.exceptions.UnsupportedMathOperationException
 import org.springframework.web.bind.annotation.PathVariable
 
 class SimpleMath {
