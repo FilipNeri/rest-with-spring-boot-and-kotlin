@@ -1,4 +1,4 @@
-package br.com.erudio.model
+package br.com.filipeneri.model
 
 import jakarta.persistence.*
 

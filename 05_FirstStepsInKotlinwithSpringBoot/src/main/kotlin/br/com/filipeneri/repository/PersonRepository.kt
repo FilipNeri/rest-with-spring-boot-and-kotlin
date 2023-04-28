@@ -1,6 +1,6 @@
-package br.com.erudio.repository
+package br.com.filipeneri.repository
 
-import br.com.erudio.model.Person
+import br.com.filipeneri.model.Person
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

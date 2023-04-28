@@ -1,7 +1,7 @@
-package br.com.erudio.controller;
+package br.com.filipeneri.controller;
 
-import br.com.erudio.model.Person
-import br.com.erudio.services.PersonService
+import br.com.filipeneri.model.Person
+import br.com.filipeneri.services.PersonService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.MediaType
 import org.springframework.web.bind.annotation.PathVariable

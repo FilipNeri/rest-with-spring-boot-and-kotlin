@@ -1,12 +1,10 @@
-package br.com.erudio.services
+package br.com.filipeneri.services
 
-import br.com.erudio.exceptions.ResourceNotFoundException
-import br.com.erudio.model.Person
-import br.com.erudio.repository.PersonRepository
+import br.com.filipeneri.exceptions.ResourceNotFoundException
+import br.com.filipeneri.model.Person
+import br.com.filipeneri.repository.PersonRepository
 import org.springframework.beans.factory.annotation.Autowired
-import org.springframework.stereotype.Repository
 import org.springframework.stereotype.Service
-import java.util.concurrent.atomic.AtomicLong
 import java.util.logging.Logger
 
 @Service

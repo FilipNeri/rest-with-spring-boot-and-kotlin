@@ -8,11 +8,11 @@
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.erudio</groupId>
-	<artifactId>rest-with-spring-boot-and-kotlin-erudio</artifactId>
+	<groupId>br.com.filipeneri</groupId>
+	<artifactId>rest-with-spring-boot-and-kotlin-filipeneri</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest-with-spring-boot-and-kotlin-erudio</name>
-	<description>rest-with-spring-boot-and-kotlin-erudio</description>
+	<name>rest-with-spring-boot-and-kotlin-filipeneri</name>
+	<description>rest-with-spring-boot-and-kotlin-filipeneri</description>
 	<properties>
 		<java.version>18</java.version>
 		<kotlin.version>1.8.0</kotlin.version>

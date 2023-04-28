@@ -1,4 +1,4 @@
-package br.com.erudio.exceptions
+package br.com.filipeneri.exceptions
 
 import java.util.*
 
